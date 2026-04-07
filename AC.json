@@ -1,0 +1,6 @@
+{
+  "host": "localhost",
+  "port": 8001,
+  "work_dir": "/home/ubuntu/hb_ansible/env",
+  "ansible_bin_dir": "/usr/bin"
+}
